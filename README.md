@@ -1,24 +1,25 @@
 # Codesign
-Copy repo 
+Copiar repositorio
 
 ```
-https://github.com/alexsan134/Codesign.git
+git clone https://github.com/alexsan134/Codesign.git
 ```
 
-Install Firebase
+Instalar Firebase
 
 ```
 npm install -g firebase-tools
 ```
 
-Google Account
+Iniciar sesión en Google Account
 
 ```
 firebase login
 ```
 
-Deploy Project
+Seleccionar carpeta de repo y despegar app
 
 ```
+cd codesign-master
 firebase deploy 
 ```
