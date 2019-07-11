@@ -23,3 +23,5 @@ Seleccionar carpeta de repo y despegar app
 cd codesigns-master
 firebase deploy 
 ```
+
+La aplicación inicia desde la carpeta public
