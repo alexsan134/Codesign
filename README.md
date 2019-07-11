@@ -1,4 +1,4 @@
-# Codesign
+# Codesigns
 Copiar repositorio
 
 ```
@@ -20,6 +20,6 @@ firebase login
 Seleccionar carpeta de repo y despegar app
 
 ```
-cd codesign-master
+cd codesigns-master
 firebase deploy 
 ```
